@@ -56,35 +56,12 @@ chat or game过程中的两条主线
 
 思维转变：放下男性那种执行者思维
 
-patience is important
 顺其自然 慢慢来
 他能沉得住气 静待事态发展
 重点：
 别聊那些费脑子的严肃话题
 
-# import pandas as pd
-# pd.set_option('display.max_rows', 500)
-# pd.set_option('display.max_columns', 500)
-# pd.set_option('display.width', 1000)
-# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
-#
-# del hobby["nicheValue"]
-# del hobby["timeOfDay"]
-# del hobby["levelVal"]
-# del hobby["status"]
-# print(hobby)
-#
-# hobby.to_csv("hobby.csv",index=False)
-#
-# from concurrent.futures.thread import ThreadPoolExecutor
-#
-# threadPoolExcuter = ThreadPoolExecutor(max_workers=15)
-# threadPoolExcuter.submit()
-# iter = pd.read_csv(iterator=True)
 
-s = 'adfgdfg333fdsgdf'
-
-print(s.replace('333','')
 1、耐心，耐心，耐心
 woman didn't respond 你 并不是讨厌你
 讨厌你的原因只是 你花样百出的死缠烂打向她博好感，手机是帮她筛选优质对象的的婚恋工具
@@ -95,31 +72,7 @@ woman didn't respond 你 并不是讨厌你
 手机的定义：是她零成本施展幕墙择偶的工具
 """
 
-# import pandas as pd
-# pd.set_option('display.max_rows', 500)
-# pd.set_option('display.max_columns', 500)
-# pd.set_option('display.width', 1000)
-# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
-#
-# del hobby["nicheValue"]
-# del hobby["timeOfDay"]
-# del hobby["levelVal"]
-# del hobby["status"]
-# print(hobby)
-
 建议：把和女生发短信的时间集中起来
-
-
-# pd.set_option('display.max_rows', 500)
-# pd.set_option('display.max_columns', 500)
-# pd.set_option('display.width', 1000)
-# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
-#
-# del hobby["nicheValue"]
-# del hobby["timeOfDay"]
-# del hobby["levelVal"]
-# del hobby["status"]
-# print(hobby)
 
 """
 强迫症 你总喜欢把事情昨晚 不喜欢接受模糊性 自我反思

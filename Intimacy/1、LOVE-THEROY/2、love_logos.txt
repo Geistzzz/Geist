@@ -1,7 +1,5 @@
 女性分类：
 
-
-
 一些概念定义：
 追女孩：你是要跟她谈恋爱的 --长期关系
 泡妞：要么你跟她玩玩，要么你跟她发生关系 --短期关系
@@ -16,9 +14,6 @@
 这种调情的交流方式和普通的交流方式到底有什么不同
 调情话语要学习
 **********
-
-
-
 
 一：女人是什么
 女生标签：
@@ -55,34 +50,6 @@
 这是基础，相当于像旗子一样的东西fund_mental
 ******************************************************
 
-
-
-
-
-# import pandas as pd
-# pd.set_option('display.max_rows', 500)
-# pd.set_option('display.max_columns', 500)
-# pd.set_option('display.width', 1000)
-# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
-#
-# del hobby["nicheValue"]
-# del hobby["timeOfDay"]
-# del hobby["levelVal"]
-# del hobby["status"]
-# print(hobby)
-#
-# hobby.to_csv("hobby.csv",index=False)
-#
-# from concurrent.futures.thread import ThreadPoolExecutor
-#
-# threadPoolExcuter = ThreadPoolExecutor(max_workers=15)
-# threadPoolExcuter.submit()
-# iter = pd.read_csv(iterator=True)
-
-s = 'adfgdfg333fdsgdf'
-
-print(s.replace('333','')
-
 """
 LTS，你需要达成的目的，你心中胜券在握，完全不担心ta会离开的几种情况
 1、可能是你有很多钱，断了钱之后，你就会变的不体面
@@ -92,58 +59,19 @@ LTS，你需要达成的目的，你心中胜券在握，完全不担心ta会离
 说不叼你就是不叼你
 """
 
-# hobby.to_csv("hobby.csv",index=False)
-#
-# from concurrent.futures.thread import ThreadPoolExecutor
-#
-"""
 α male的局限性，过分a，过于直接，会导致一眼看穿，然后会导致排斥，没人会喜欢老板
 过分-a，会导致，太过于弱小，然后会导致没有性张力（暂时的意识形态）
 """
-
-# threadPoolExcuter = ThreadPoolExecutor(max_workers=15)
-# threadPoolExcuter.submit()
-# iter = pd.read_csv(iterator=True)
 """
 就是一个人，说话的声音，你是知道ta是有没有发情的，所以你会采取一种无视的态度来进行隐形交流，他是不会看上你的，所以你跟她再交流也米有用
 但是辩证法来了，你这种退缩行为，把自己保护起来的行为一下子又会变成又会被视为太闷了，没有进攻主动性，但是你又知道一开始没有吸引住你，
 你再进攻也没有用，但是还是得进攻，必须让实践落地，首先不要意象ta对你的态度把，该实践实践，在实践中，把握事态
 """
 
-# import pandas as pd
-# pd.set_option('display.max_rows', 500)
-# pd.set_option('display.max_columns', 500)
-# pd.set_option('display.width', 1000)
-# hobby = pd.read_csv(r"D:\Users\13191\Downloads\兴趣爱好问卷数据库.csv",index_col=0)
-
 """
 一个轻佻的姿态，挑逗对方的情欲，让别人害羞，不好意思，不是我想这样，是他想这样，他未来是要给你做m的
 """
-# del hobby["nicheValue"]
-# del hobby["timeOfDay"]
-# del hobby["levelVal"]
-# del hobby["status"]
-需要培养的能力：
-1、讲故事的能力
-# print(hobby)
-# del hobby["nicheValue"]
-# del hobby["timeOfDay"]
-# del hobby["levelVal"]
-# del hobby["status"]
-# print(hobby)
 
-# del hobby["nicheValue"]
-# del hobby["timeOfDay"]
-# del hobby["levelVal"]
-# del hobby["status"]
-# print(hobby)
-
-
-# del hobby["nicheValue"]
-# del hobby["timeOfDay"]
-# del hobby["levelVal"]
-# del hobby["status"]
-# print(hobby)
 
 婚姻----可以成功的秘诀，你本来就是是一个幸福的人
 

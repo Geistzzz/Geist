@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ea4d9f-a482-4560-86e8-2dfce7501bfe" name="Changes" comment="daily">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/内功打造/date_list.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/内功打造/mental_preparation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/mental_preparation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/内功打造/romantic_preparation.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/romantic_preparation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/内功打造/romantic_script.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/romantic_script.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/1、meta_love" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/1、meta_love" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/2、love_logos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/1、LOVE-THEROY/2、love_logos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/约会脚本.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/聊天脚本.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Intimacy/2、LOVE-SCRIPT/聊天脚本.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Users/13191/PycharmProjects/Geist&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/13191/PycharmProjects/hexo-starter&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -195,7 +195,16 @@
       <workItem from="1743068613663" duration="1311000" />
       <workItem from="1755573029765" duration="3190000" />
       <workItem from="1756522546995" duration="5619000" />
-      <workItem from="1756631602584" duration="9628000" />
+      <workItem from="1756631602584" duration="9661000" />
+      <workItem from="1756819154911" duration="742000" />
+      <workItem from="1756910582420" duration="910000" />
+      <workItem from="1757080678457" duration="2364000" />
+      <workItem from="1757344143834" duration="706000" />
+      <workItem from="1757430649412" duration="768000" />
+      <workItem from="1757751663790" duration="6328000" />
+      <workItem from="1757857286718" duration="634000" />
+      <workItem from="1758035799564" duration="3154000" />
+      <workItem from="1758209953858" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="daily">
       <option name="closed" value="true" />
@@ -429,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756643763907</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="daily">
+      <option name="closed" value="true" />
+      <created>1756656592991</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1756656592991</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
